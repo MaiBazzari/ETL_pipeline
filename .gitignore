@@ -1,0 +1,8 @@
+slides2
+data
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.DS_Store
+.env
+__pycache__/
+.idea/
